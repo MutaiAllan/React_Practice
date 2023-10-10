@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+  }
+
+.auth-actions {
+
+  display: flex;
+  font-size: 16px;
+}
+
+button {
+  width: 100px;
+}
+.btn {
+  background-color: blueviolet;
+}

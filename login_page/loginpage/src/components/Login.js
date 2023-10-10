@@ -81,8 +81,7 @@ function LogIn({ user, setUser, admin, staff, setStaff, setAdmin, student, setSt
             </div>
         </div>
         <div className="div-image">
-            <p>Your image</p>
-            <img></img>
+            <img src='https://images.pexels.com/photos/5948347/pexels-photo-5948347.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'/>
         </div>
     </div>
   );
